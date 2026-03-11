@@ -2,5 +2,11 @@ Második verzió
 Harmadik verzió
 Negyedik
 
+
 Ez itt a 2_branch első változat
 branch_2 második változat
+
+branch_1 első módosítás
+baranch_1 második módosítás
+több fájl módosítása egyszerre
+
